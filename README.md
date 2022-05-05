@@ -209,3 +209,36 @@ I intend to add P+/PM support shortly. The v1.0 release will happen after that. 
 Discord: Arte#9281
 
 Twitter: https://twitter.com/SSBM_Arte
+
+
+
+> Open this page at [https://ericl810.github.io/pico-rectangle-l810/](https://ericl810.github.io/pico-rectangle-l810/)
+
+## Use as Extension
+
+This repository can be added as an **extension** in MakeCode.
+
+* open [https://maker.makecode.com/](https://maker.makecode.com/)
+* click on **New Project**
+* click on **Extensions** under the gearwheel menu
+* search for **https://github.com/ericl810/pico-rectangle-l810** and import
+
+## Edit this project ![Build status badge](https://github.com/ericl810/pico-rectangle-l810/workflows/MakeCode/badge.svg)
+
+To edit this repository in MakeCode.
+
+* open [https://maker.makecode.com/](https://maker.makecode.com/)
+* click on **Import** then click on **Import URL**
+* paste **https://github.com/ericl810/pico-rectangle-l810** and click import
+
+## Blocks preview
+
+This image shows the blocks code from the last commit in master.
+This image may take a few minutes to refresh.
+
+![A rendered view of the blocks](https://github.com/ericl810/pico-rectangle-l810/raw/master/.github/makecode/blocks.png)
+
+#### Metadata (used for search, rendering)
+
+* for PXT/maker
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
